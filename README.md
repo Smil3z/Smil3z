@@ -4,7 +4,7 @@
  ## My name is Stephon and welcome to my GitHub!
 
 ### A bit about me:
-Just a computer nerd turned Full Stack Developer, I started my journey after my sophmore year of college persuing computer science not knowing what to do with my life. After consideration ive decided to learn coding at [Prime Digital Academy](https://primeacademy.io) and lone behold i became a Full Stack Developer!
+Just a computer nerd turned Full Stack Engineer, I started my journey after my sophmore year of college persuing computer science not knowing what to do with my life. After consideration ive decided to learn coding at [Prime Digital Academy](https://primeacademy.io) and lone behold I became a Full Stack Engineer!
 
 ### :calling: You can reach me at:
 
