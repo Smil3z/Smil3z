@@ -26,7 +26,7 @@ Just a computer nerd turned Full Stack Engineer, I started my journey after my s
         <ul>
           <li>Rainbow Six Siege</li>
           <li>Apex Legends</li>
-          <li>Call of Duty</li>
+          <li>Elden Ring</li>
           <li>Warzone</li>
         </ul>
       </li>
